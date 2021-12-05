@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0A272C3C-2DB9-1413-CA5A-FA513E4A1630}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="31" Column="44" />
+      <File FileName="Assets/GameManager.cs" Line="11" Column="9" />
+      <File FileName="Assets/Connect.cs" Line="18" Column="36" />
+      <File FileName="Assets/Lobby.cs" Line="36" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Multiplayer with low poly nature" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Characters" expanded="True">
+                  <Node name="ThirdPersonCharacter" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Utility" expanded="True" />
+              </Node>
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="60915a82-adb7-485e-95a2-b60d49b79f7b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
